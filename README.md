@@ -24,6 +24,7 @@ swap of RGB565 color on the LVGL configuration menuconfig (it's not handled auto
 | ILI9488                                     | TFT        | SPI                    | 16: RGB565                   | No                                     |
 | HX8357B/HX8357D                             | TFT        | SPI                    | 16: RGB565                   | Yes                                    |
 | ST7789                                      | TFT        | SPI                    | 16: RGB565                   | Yes                                    |
+| ST7789V                                     | TFT        | SPI                    | 16: RGB565                   | Yes                                    |
 | ST7735S                                     | TFT        | SPI                    | 16: RGB565                   | Yes                                    |
 | FT81x                                       | TFT        | Single, Dual, Quad SPI | 16: RGB565                   | No                                     |
 | GC9A01                                      | TFT        | SPI                    | 16: RGB565                   | Yes                                    |
